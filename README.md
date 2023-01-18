@@ -17,8 +17,5 @@ to activate the environment:
 run script using terminal 
 
 1) cd to the directory where the python file is located 
-2) activate venv ()
-3) type the name of the python file followed by the flag "python foo.py -r 2 -H 4"
-
-
-
+2) activate venv
+3) type the word "python" followed by the name of the python file followed by ".py" then the flag "ex. python foo.py -f1 2 -f2 4"
